@@ -20,6 +20,7 @@ This table represents the syscalls supported by our drivers.
 | bind                    | 🟢        |
 | bpf                     | 🟢        |
 | brk                     | 🟢        |
+| cachestat               | 🟡        |
 | capget                  | 🟡        |
 | capset                  | 🟢        |
 | chdir                   | 🟢        |
